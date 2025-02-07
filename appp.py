@@ -2,8 +2,8 @@ from telethon import TelegramClient, events
 import requests
 import time
 
-api_id = ايبي ايدي
-api_hash = 'هاش'
+api_id = '25875948'  # ضع API_ID الخاص بك
+api_hash = 'bbc8cd4753b320c932bd56254d2917a0'  # ضع API_HASH الخاص بك
 client = TelegramClient('ai_bot', api_id, api_hash)
 
 
